@@ -61,7 +61,3 @@ Mac/Linux activation: `source .venv/bin/activate`
 ## Project Flow
 
 `Raw CSVs -> Cleaning & Validation -> Merge -> SLA Metrics -> EDA -> SQL -> Dashboard-ready output`
-
-## Important
-
-Read `START_HERE_HINGLISH.md` before running and `GITHUB_UPLOAD.md` before publishing.
