@@ -1,0 +1,6 @@
+assigned_team,total_tickets,resolved_tickets,avg_first_response_min,sla_compliance,avg_resolution_hours,avg_csat,reopen_rate
+Account,129,102,65.81,36.27,27.89,3.6,5.88
+Billing,210,161,67.18,36.02,30.61,3.45,17.39
+Integrations,219,181,67.39,28.18,76.89,3.47,8.84
+Technical,275,214,65.71,40.19,42.47,3.58,13.08
+Unknown,7,5,72.71,0.0,24.67,2.4,0.0

@@ -1,0 +1,32 @@
+{
+  "raw_rows": 864,
+  "exact_duplicates_removed": 14,
+  "valid_clean_rows": 840,
+  "rejected_rows": 10,
+  "missing_values_after_cleaning": {
+    "ticket_id": 0,
+    "created_at": 0,
+    "resolved_at": 177,
+    "updated_at": 0,
+    "customer_id": 0,
+    "channel": 0,
+    "priority": 0,
+    "category": 0,
+    "assigned_team": 0,
+    "status": 0,
+    "first_response_minutes": 0,
+    "csat_score": 185,
+    "reopened_count": 0,
+    "source_system": 0,
+    "first_response_target_min": 0,
+    "resolution_target_hours": 0,
+    "resolution_hours": 177,
+    "first_response_sla_met": 0,
+    "resolution_sla_met": 177,
+    "overall_sla_met": 177,
+    "is_reopened": 0,
+    "created_date": 0,
+    "created_month": 0,
+    "created_week": 0
+  }
+}

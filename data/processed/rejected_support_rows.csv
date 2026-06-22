@@ -1,0 +1,11 @@
+ticket_id,created_at,resolved_at,updated_at,customer_id,channel,priority,category,assigned_team,status,first_response_minutes,csat_score,reopened_count,source_system,rejection_reason
+TKT00012,2025-05-22 17:28:00,2025-05-22 19:17:19,2025-05-22 19:17:19,CUST0220,API Monitoring,Critical,Plan Change,Account,Resolved,-20,4.0,0,Support Portal,invalid_first_response;
+TKT00133,2025-05-25 19:15:00,2025-05-25 17:15:00,2025-05-25 23:35:42,CUST0264,Email,High,OAuth Issue,Integrations,Resolved,28,4.0,0,Support Portal,resolved_before_created;
+TKT00175,2025-02-13 12:35:00,2025-02-13 19:59:04,2025-02-13 19:59:04,CUST0289,Email,High,Slow Performance,Technical,Resolved,-5,5.0,0,Support Portal,invalid_first_response;
+TKT00180,2025-04-08 08:30:00,,2025-04-10 14:30:00,CUST0159,Email,Low,Application Bug,Technical,Open,-5,,0,Support Portal,invalid_first_response;
+TKT00325,2025-03-14 16:51:00,,2025-03-16 12:51:00,CUST0223,Email,Critical,Application Bug,Technical,Open,-5,,0,Support Portal,invalid_first_response;
+TKT00370,2025-06-18 11:07:00,2025-06-19 15:52:17,2025-06-19 15:52:17,CUST0092,API Monitoring,Low,Invoice Issue,Billing,Resolved,0,3.0,0,Support Portal,invalid_first_response;
+TKT00592,2025-03-18 08:00:00,2025-03-18 06:00:00,2025-03-20 02:34:11,CUST0147,Web Form,Medium,OAuth Issue,Integrations,Resolved,85,4.0,0,Support Portal,resolved_before_created;
+TKT00709,2025-06-26 18:57:00,,2025-06-29 09:57:00,CUST0037,Chat,Critical,Application Bug,Technical,Open,-5,,0,Integration Dashboard,invalid_first_response;
+TKT00753,2025-02-20 07:06:00,2025-02-24 05:14:48,2025-02-24 05:14:48,CUST0196,Web Form,Low,Account Closure,Account,Resolved,-20,3.0,0,CRM,invalid_first_response;
+TKT00764,2025-01-21 19:57:00,2025-01-24 01:57:22,2025-01-24 01:57:22,CUST0088,Email,Low,Refund Request,Billing,Resolved,0,4.0,0,Integration Dashboard,invalid_first_response;
